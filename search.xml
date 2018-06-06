@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>Introduction</title>
+      <link href="/2018/06/06/Introduction/"/>
+      <url>/2018/06/06/Introduction/</url>
+      <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Hey there, I’m Travis. I’m the Lead DevOps and Platform Architect at Metis<br>Machine(as of writing). I have a strong background in software development, and<br>systems architecture. I value myself in my breadth of knowledge across many<br>aspects of computer science and engineering. I feel that my posts could help you<br>better understand the other side of things, get a look into the blackbox of<br>whats happening behind the abstractions, and step in the shoes of the other<br>professions. Better understanding leads to better practice. If you understand IT<br>operations better as a software engineer you could better understand how to<br>develop a scalable software solution, or inversely if you’re IT operations and<br>you understand development better you can better serve the software you’re<br>running on your platform.</p><p>I think a common reason that people get stuck in their career path, or even just<br>stuck in progression on a personal project is that we learn high level concepts<br>and never understand the fundementals. Developers too often approach problems<br>with over simplified business logic, when there is a fundemental solution to<br>that problem, such as an existing algorithm or data structure. DevOps gets<br>caught in the world of IT operations, and fails to understand software.</p><p>I hope that in my writings I can share some of my experiences as both a software<br>engineer, and DevOps architect and practioner to help you move beyond the<br>hurdles you might face. I aim to provide not only fundemental concepts, but<br>applied approaches and existing solutions. So that you not only understand the<br>problem, but you can find a clear path forward into delivering a solution.</p><p>See you in the comments.</p>]]></content>
+      
+      
+        <tags>
+            
+            <tag> devops,development,software,security,infrastructure </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
+</search>
